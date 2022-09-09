@@ -6,4 +6,4 @@ public class first {
 		int n=sc.nextInt();
 		System.out.print((n*(n+1))/2);
 	}
-
+}
